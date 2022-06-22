@@ -45,7 +45,7 @@ Simply by using a bash script, change the language of the game, whether it be UI
 - ### Q: Where can I install the code?
   R: **[Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)**
 
-- ### Q: Is this script is bannissable from VALORANT?
+- ### Q: Is this script is bannishable from VALORANT?
   R: **No, he didn't, Riot do not care about changing texts/voicelines languages.**
 
 
