@@ -4,9 +4,7 @@
 ### 📚 Version history
 | Version | Game Ver. | Safe |
 | ------  | ----- | --------- |
-| 1.0    | Patch 5.0 | 〰        |
-| 1.0    | Patch 4.11 | ✔        |
-| 1.0    | Older | ❌        |
+| 1.0    | Patch 5.0 | ✔        |
 
 ### Descriptions:
 
