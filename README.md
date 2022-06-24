@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<img src= "https://zupimages.net/up/22/25/6ai0.png alt="Logo" width="300" height="300""/>
+<img src= "https://imgur.com/TYlMEfe alt="Logo" width="300" height="300""/>
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <a href="https://discord.gg/sS7X8cPt62">
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.0-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </p>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -34,26 +34,41 @@ Simply by using a bash script, change the text language of the game, whether it 
 
 ⚠ If you have troubles when using this script, ask me for help on [Discord](https://discord.gg/sS7X8cPt62), ask me for help here, read the FAQ or see the "Help" page in the script!
 
+<h1 align="left">
+Installation
+</h1>
+
+- **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
+- **1.** Extract the `"VRLC"` folder out of the `".zip"` folder: `"VRLC-Stable1.0"`
+- **2.** Launch your Riot Client, check if your game sur up to date and if he can be launched
+- **3.** Start `"VRLC.bat"` as administrator
+- **4.** Wait until the initialization is finished
+- **5.** Enter the game installation path if it's needed
+- **6.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
+- **7.** Select the text language you want to have with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
+- **8.** Wait until the injection is finished
+- **9.** When it's finished, you can close the VRLC's windows and launch VALORANT via your Riot Client!
+- **10.** Enjoy!
 
 <h1 align="left">
  FAQ
 </h1>
 
-- ### Q: Is this script safe?
-  R: **Yes it is!**
+- ### 💬 Q: Is this script safe?
+  ➡ R: **Yes it is!**
 
-- ### Q: Where can I install the script?
-  R: **[Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)**
+- ### 💬 Q: Where can I install the script?
+  ➡ R: **[Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)**
 
-- ### Q: Can I get banned from VALORANT by using this script?
-  R: **Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!**
+- ### 💬 Q: Can I get banned from VALORANT by using this script?
+  ➡ R: **Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!**
 
-- ### Q: I have some problems while trying to use the script
-  R: **If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!**
+- ### 💬 Q: I have some problems while trying to use the script
+  ➡ R: **If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!**
 
 
-- ### Q: The script is working, but my VALORANT had no changes on texts/voicelines language or even crashed!
-  R: **If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:**
+- ### 💬 Q: The script is working, but my VALORANT had no changes on texts language or even crashed!
+  ➡ R: **If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:**
   #### First, verifiy that your game is in English by default, by changing the language via Riot Client in the options of the client.
   #### Also, verifiy while launching the script, that your VALORANT installation game path is correct! *(By default it's this path: "X:/Riot Games/VALORANT/live", and don't forget to change the "X" to your actual hard-drive letter, like "C" or "E" for exemple.)*
   #### Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
