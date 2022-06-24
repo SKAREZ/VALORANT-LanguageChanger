@@ -25,14 +25,14 @@
 Description
 </h1>
 
-🤔 **Are you tired of having the voicelines or the text of your game in a certain language?**
+🤔 **Are you annoyed of having the text of your game in a certain language?**
 
-🔎 **Do you want to change the text language of your game without changing the voice language or vice versa?**
+🔎 **Do you want to change the text language of your game without changing the audio** *(Voiceline...)* **language?**
 
-> *This script was made to be able to change the language of VALORANT separately, i.e., change the text language without changing the voice language, or vice versa.
-Simply by using a bash script, change the language of the game, whether it be UI/Map/Pings texts or agents voicelines/GOTV's voice!*
+> *This script was made to be able to change the language of VALORANT separately, i.e., change the text language without changing the voice language!
+Simply by using a bash script, change the text language of the game, whether it be UI/Map/Pings texts without changing agents voicelines/GOTV's voice you want to have!*
 
-⚠ If you have troubles when using this script, ask me for help on [Discord](https://discord.gg/sS7X8cPt62), or read the FAQ
+⚠ If you have troubles when using this script, ask me for help on [Discord](https://discord.gg/sS7X8cPt62), ask me for help here, read the FAQ or see the "Help" page in the script!
 
 
 <h1 align="left">
@@ -42,12 +42,11 @@ Simply by using a bash script, change the language of the game, whether it be UI
 - ### Q: Is this script safe?
   R: **Yes it is!**
 
-- ### Q: Where can I install the code?
+- ### Q: Where can I install the script?
   R: **[Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)**
 
-- ### Q: Is this script is bannishable from VALORANT?
-  R: **No, he didn't, Riot do not care about changing texts/voicelines languages.**
-
+- ### Q: Can I get banned from VALORANT by using this script?
+  R: **Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!**
 
 - ### Q: I have some problems while trying to use the script
   R: **If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!**
@@ -55,11 +54,10 @@ Simply by using a bash script, change the language of the game, whether it be UI
 
 - ### Q: The script is working, but my VALORANT had no changes on texts/voicelines language or even crashed!
   R: **If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:**
-*First, verifiy that your game is in English by default, by changing the language via Riot Client in the options of the client.*
-*Also, verifiy while launching the script, that your VALORANT installation game path is correct!*
-*(By default it's this path: "X:/Riot Games/VALORANT/live", and don't forget to change the "X" to your actual hard-drive letter, like "C" or "E" for exemple.)*
-*Be carefull to have your game up to date before injecting the languages files, and also having your Riot Client opened!*
-*Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: https://bit.ly/3bnV4DH or https://bit.ly/3xNxK9R*
+  #### First, verifiy that your game is in English by default, by changing the language via Riot Client in the options of the client.
+  #### Also, verifiy while launching the script, that your VALORANT installation game path is correct! *(By default it's this path: "X:/Riot Games/VALORANT/live", and don't forget to change the "X" to your actual hard-drive letter, like "C" or "E" for exemple.)*
+  #### Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
+  #### Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: **https://bit.ly/3bnV4DH** or **https://bit.ly/3xNxK9R**
 
 
 > **If you have more question about this code, you can contact me on my GitHub or my Discord!**
