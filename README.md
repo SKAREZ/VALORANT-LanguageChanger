@@ -39,7 +39,7 @@ Installation
 </h1>
 
 - **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
-- **1.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-StableX?.?"`
+- **1.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-Stable?.?"`
 - **2.** Launch your Riot Client, check if your game sur up to date and if he can be launched
 - **3.** Start `"VRLC.bat"` as administrator
 - **4.** Wait until the initialization is finished
