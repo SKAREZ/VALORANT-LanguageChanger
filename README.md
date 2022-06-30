@@ -44,13 +44,14 @@ Installation
 - **1.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-Stable?.?"`
 - **2.** Launch your Riot Client, check if your game sur up to date and if he can be launched
 - **3.** Start `"VRLC.bat"` as administrator
-- **4.** Wait until the initialization is finished
-- **5.** Enter the game installation path if it's needed
-- **6.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
-- **7.** Select the text language you want to have with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
-- **8.** Wait until the injection is finished
-- **9.** When it's finished, you can close the VRLC's windows and launch VALORANT via your Riot Client!
-- **10.** Enjoy!
+- **4.** Enter the VALORANT game installation path *(By default: "X:/Riot Games/VALORANT/live")*
+- **5.** Wait until the initialization is finished
+- **6.** Enter the game installation path if it's needed
+- **7.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
+- **8.** Select the text language you want to have with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
+- **9.** Wait until the injection is finished
+- **10.** When it's finished, you can close the VRLC's windows and launch VALORANT via your Riot Client!
+- **11.** Enjoy!
 
 <h1 align="left">
  FAQ
@@ -68,11 +69,12 @@ Installation
 - ### 💬 Q: I have some problems while trying to use the script
   ➡ R: **If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!**
 
+- ### 💬 Q: I want to change the language of the audio/voicelines... How do I do?
+  ➡ R: **This is a good question and she is important to be able to use correctly the script, to change you game audio/voicelines language, nothing hard. Go in-game or in the VALORANT's Riot Client settings and choose the language you want for the audio/voicelines language, and change the text file language if you want to by following the [installation](https://github.com/SKAREZ/VALORANT-LanguageChanger#installation) guide!**
 
 - ### 💬 Q: The script is working, but my VALORANT had no changes on texts language or even crashed!
   ➡ R: **If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:**
-  #### First, verifiy that your game is in English by default, by changing the language via Riot Client in the options of the client.
-  #### Also, verifiy while launching the script, that your VALORANT installation game path is correct! *(By default it's this path: "X:/Riot Games/VALORANT/live", and don't forget to change the "X" to your actual hard-drive letter, like "C" or "E" for exemple.)*
+  #### Verifiy while launching the script, that your VALORANT installation game path is correct! *(By default it's this path: "X:/Riot Games/VALORANT/live"), and don't forget to put the correct letter of your hard-drive where the VALORANT installation path is.*
   #### Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
   #### Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: **https://bit.ly/3bnV4DH** or **https://bit.ly/3xNxK9R**
 
@@ -84,6 +86,10 @@ Installation
 
 # 🔗 **Links**
   
-> 📥 [Installation](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
+> 📥 [Download](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
 
-> 💲 [Donate](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> 🔊 [Discord](https://discord.gg/sS7X8cPt62)
+
+> 🐦 [Twitter](https://twitter.com/SKAREZ_Z)
+
+> 💲 [Donate](https://paypal.me/skz54)
