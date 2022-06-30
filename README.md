@@ -78,9 +78,14 @@ Installation
   #### Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
   #### Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: **https://bit.ly/3bnV4DH** or **https://bit.ly/3xNxK9R**
 
+---
 
-> **If you have more question about this code, you can contact me on my GitHub or my Discord!**
-### ❤ Enjoy!
+<p align="center">
+> If you have more question about this code, you can contact me on my GitHub or my Discord! <
+</p>
+<p align="center">
+❤ Enjoy! ❤
+</p>
 
 ---
 
