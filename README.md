@@ -1,5 +1,5 @@
 <h1 align="center">
-✨ 𝐕𝐑𝐋𝐂 | 𝙑𝘼𝙇𝙊𝙍𝘼𝙉𝙏 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝘾𝙝𝙖𝙣𝙜𝙚𝙧
+✨ 𝐕𝐑𝐋𝐂 | VALORANT Language Changer
 </h1>
 
 <h3 align="center">
