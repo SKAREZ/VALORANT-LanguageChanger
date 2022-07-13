@@ -7,13 +7,13 @@
 </h3>
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/STABLE 1.0-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img alt="Version" src="https://img.shields.io/badge/STABLE 1.0.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img alt="Code" src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=Windows&logoColor=4F93CB">
 <a href="https://discord.gg/sS7X8cPt62">
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.0-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.01-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -23,14 +23,8 @@
 
 ---
 
-<h1 align="center">
-OUTDATED FOR PATCH 5.1 | WORKING ON A UPDATE!
-</h1>
-
----
-
 <h1 align="left">
-Description
+🧾 Description
 </h1>
 
 🤔 **Are you annoyed of having the text of your game in a certain language?**
@@ -43,7 +37,7 @@ Simply by using a bash script, change the text language of the game, whether it 
 ⚠ If you have troubles when using this script, ask me for help on [Discord](https://discord.gg/sS7X8cPt62), ask me for help here, read the FAQ or see the "Help" page in the script!
 
 <h1 align="left">
-Installation
+📥 Installation
 <img alt"Downloads" src="https://img.shields.io/github/downloads/SKAREZ/VALORANT-LanguageChanger/total?style=flat-square&logo=github&logoColor=FFFFFF">
 </h1>
 
@@ -61,7 +55,7 @@ Installation
 - **11.** Enjoy!
 
 <h1 align="left">
- FAQ
+📋 FAQ
 </h1>
 
 - ### 💬 Q: Is this script safe?
