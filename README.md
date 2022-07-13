@@ -22,6 +22,13 @@
 </p>
 
 ---
+
+<h1 align="center">
+SCRIPT OBSOLETE FOR PATCH 5.1 | A UPDATE IS COMMING
+</h1>
+
+---
+
 <h1 align="left">
 Description
 </h1>
