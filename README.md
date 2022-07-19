@@ -42,17 +42,17 @@ Simply by using a bash script, change the text language of the game, whether it 
 </h1>
 
 - **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
-- **1.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-Stable?.?"`
-- **2.** Launch your Riot Client, check if your game sur up to date and if he can be launched
-- **3.** Start `"VRLC.bat"` as administrator
-- **4.** Enter the Riot Game Softwares installation folder *(By default: "X:/Riot Games")*
-- **5.** Enter the game installation path if it's needed
-- **6.** Wait until the initialization is finished
-- **7.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
-- **8.** Select the text language you want to have for texts with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
-- **9.** Wait until the injection is finished
-- **10.** When it's finished, you can launch VALORANT via your Riot Client or VRLC, or even close the VRLC's window!
-- **11.** Enjoy!
+- **2.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-Stable?.?"`
+- **3.** Launch your Riot Client, check if your game sur up to date and if he can be launched
+- **4.** Start `"VRLC.bat"` as administrator
+- **5.** Enter the Riot Game Softwares installation folder *(By default: "X:/Riot Games")*
+- **6.** Enter the game installation path if it's needed
+- **7.** Wait until the initialization is finished
+- **8.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
+- **9.** Select the text language you want to have for texts with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
+- **10.** Wait until the injection is finished
+- **11.** When it's finished, you can launch VALORANT via your Riot Client or VRLC, or even close the VRLC's window!
+- **12.** Enjoy!
 
 <h1 align="left">
 📋 FAQ
