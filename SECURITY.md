@@ -1,27 +1,17 @@
-# 🔐 Security Checkup
+# 🔐 Security/Compatibility Checkup
 
 
-### 📚 Version history
-| Game Ver. | Safe |
-| ----- | --------- |
-| Patch 5.03 | 〰 |
+### 📋 Checkup Board
+| Game Version | Safe/Compatible |
+| --- | --- |
+| Patch 5.03 | ✔ |
 | Patch 5.02 | ✔ |
 | Patch 5.01 | ✔ |
-| Patch 5.0  | ❌ |
 | Older Patchs | ❌ |
 
-### Descriptions:
-
-<p>
-✔ = Yes
-</p>
-
-<p>
-❌ = No
-</p>
-<p>
-〰 = Unknown
-</p>
+> ✔ Yes
+/ ❌ No
+/ 〰 Unknown
 
 ---
 
