@@ -8,12 +8,14 @@
 
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/STABLE 1.0.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<a href="https://docs.microsoft.com/en-us/learn/modules/bash-introduction/">
 <img alt="Code" src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=Windows&logoColor=4F93CB">
+</a>
 <a href="https://discord.gg/sS7X8cPt62">
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.01-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.03-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -46,13 +48,12 @@ Simply by using a bash script, change the text language of the game, whether it 
 - **3.** Launch your Riot Client, check if your game sur up to date and if he can be launched
 - **4.** Start `"VRLC.bat"` as administrator
 - **5.** Enter the Riot Game Softwares installation folder *(By default: "X:/Riot Games")*
-- **6.** Enter the game installation path if it's needed
-- **7.** Wait until the initialization is finished
-- **8.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
-- **9.** Select the text language you want to have for texts with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
-- **10.** Wait until the injection is finished
-- **11.** When it's finished, you can launch VALORANT via your Riot Client or VRLC, or even close the VRLC's window!
-- **12.** Enjoy!
+- **6.** Wait until the initialization is finished
+- **7.** Select your actual default set game language *(Can be changed in-game or via the Riot Client, this is gonna be the audio language)*
+- **8.** Select the text language you want to have for texts with your audio language at the same time *(Thats gonna only change the text language, not the audio)*
+- **9.** Wait until the injection is finished
+- **10.** When it's finished, you can launch VALORANT via your Riot Client or with VRLC end page!
+- **11.** Enjoy!
 
 <h1 align="left">
 📋 FAQ
