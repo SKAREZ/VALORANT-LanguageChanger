@@ -9,7 +9,7 @@
 <a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
 <img alt="License" src="https://img.shields.io/badge/📜 LICENSE-0D1117?style=for-the-badge">
 </a>
-<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
+<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/SECURITY.md">
 <img alt="SecurityCompatibility" src="https://img.shields.io/badge/🔑 SECURITY/COMPATIBILITY-0D1117?style=for-the-badge">
 </a>
 </p>
