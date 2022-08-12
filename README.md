@@ -5,6 +5,14 @@
 <h3 align="center">
 <img src= "https://i.imgur.com/P0mFGcz.png alt="Logo" width="300" height="300""/>
 </h3>
+<p align="center">
+<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
+<img alt="License" src="https://img.shields.io/badge/📜 LICENSE-0D1117?style=for-the-badge">
+</a>
+<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
+<img alt="SecurityCompatibility" src="https://img.shields.io/badge/🔑 SECURITY/COMPATIBILITY-0D1117?style=for-the-badge">
+</a>
+</p>
 
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/STABLE 1.0.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
@@ -22,6 +30,7 @@
 <img alt="User" src="https://img.shields.io/badge/MADE WITH ❤ BY SKAREZ-FF5050?style=for-the-badge">
 </a>
 </p>
+
 
 ---
 
@@ -92,7 +101,7 @@ Simply by using a bash script, change the text language of the game, whether it 
 ---
 
 # 🔗 **Links**
-  
+
 > 📥 [Download](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
 
 > 🔊 [Discord](https://discord.gg/sS7X8cPt62)
