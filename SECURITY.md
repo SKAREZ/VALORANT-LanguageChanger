@@ -8,6 +8,7 @@
 | Patch 5.02 | ✔ |
 | Patch 5.01 | ✔ |
 | Older Patchs | ❌ |
+> Latest release
 
 > ✔ Yes
 / ❌ No
