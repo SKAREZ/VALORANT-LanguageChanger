@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/STABLE 1.0.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/releases">
+<img alt="Version" src="https://img.shields.io/badge/STABLE 1.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
 <a href="https://docs.microsoft.com/en-us/learn/modules/bash-introduction/">
 <img alt="Code" src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=Windows&logoColor=4F93CB">
 </a>
