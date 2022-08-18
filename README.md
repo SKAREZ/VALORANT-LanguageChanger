@@ -36,7 +36,7 @@
 
 ---
 
-<p align=center>
+<p align="center">
 ⚙ TW: Currently working on the 1.2 version (It will include a new ".EXE" instead of a ".BAT" file and a auto-update feature. ⚙
 </p>
 
@@ -57,7 +57,9 @@ Simply by using a bash script, change the text language of the game, whether it 
 
 <h1 align="left">
 📥 Installation
-<img alt"Downloads" src="https://img.shields.io/github/downloads/SKAREZ/VALORANT-LanguageChanger/total?style=flat-square&logo=github&logoColor=FFFFFF">
+<a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/releases">
+<img alt"Downloads" src="https://img.shields.io/github/downloads/SKAREZ/VALORANT-LanguageChanger/total?&logo=github&logoColor=FFFFFF">
+</a>
 </h1>
 
 - **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
