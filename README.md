@@ -36,6 +36,12 @@
 
 ---
 
+<p align=center>
+⚙ TW: Currently working on the 1.2 version (It will include a new ".EXE" instead of a ".BAT" file and a auto-update feature. ⚙
+</p>
+
+---
+
 <h1 align="left">
 🧾 Description
 </h1>
