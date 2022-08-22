@@ -8,7 +8,7 @@
 | Patch 5.02 | ✔ |
 | Patch 5.01 | ✔ |
 | Older Patchs | ❌ |
-> Latest release
+> [Latest release](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases)
 
 > ✔ Yes
 / ❌ No
