@@ -25,7 +25,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.03-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.04-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -63,7 +63,7 @@ Simply by using a bash script, change the text language of the game, whether it 
 </h1>
 
 - **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
-- **2.** Extract the `"VRLC"` folder out of the `".rar"` folder: `"VRLC-Stable?.?"`
+- **2.** Extract the `"VRLC"` folder out of the `".zip"` folder: `"VRLC-Stable?.?"`
 - **3.** Launch your Riot Client, check if your game sur up to date and if he can be launched
 - **4.** Start `"VRLC.bat"` as administrator
 - **5.** Enter the Riot Game Softwares installation folder *(By default: "X:/Riot Games")*
