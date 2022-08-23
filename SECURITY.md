@@ -4,6 +4,7 @@
 ### 📋 Checkup Board
 | Game Version | Safe/Compatible |
 | --- | --- |
+| Patch 5.04 | ✔ |
 | Patch 5.03 | ✔ |
 | Patch 5.02 | ✔ |
 | Patch 5.01 | ✔ |
