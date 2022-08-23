@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<img src= "https://i.imgur.com/P0mFGcz.png alt="Logo" width="300" height="300""/>
+<img src= "https://imgur.com/HQyUeXL.png alt="Logo" width="300" height="300""/>
 </h3>
 <p align="center">
 <a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
