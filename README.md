@@ -25,7 +25,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.04-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.05-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
