@@ -1,7 +1,7 @@
 # 🔐 Security/Compatibility Checkup
 
 
-### 📋 Checkup Board [» Latest release](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases)
+### 📋 Checkup Board [» Latest release](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/latest)
 
 | Game Version | Safe/Compatible |
 | --- | --- |
