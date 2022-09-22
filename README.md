@@ -25,7 +25,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.05-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.06-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -37,7 +37,13 @@
 ---
 
 <p align="center">
-⚙ TW: Currently working on the 1.2 version (It will include a new ".EXE" instead of a ".BAT" file and a auto-update feature. ⚙
+⚠ - IMPORTANT - ⚠
+</p>
+<p align="center">
+Hey everyone! I'm curently working on a brand new version of VRLC, more stable, and more easy-to-use, I don't have too much freetime in my life right now, so, the preoject will be suspended for updates, the new 5.06 patch from VALORANT was not tested yet, but the 1.1 version of VRLC should be still compatible, if you have some problems, please, report the problem in the "Issues" tab on GitHub or come contact me on Discord!
+</p>
+<p align="center">
+xoxo.
 </p>
 
 ---
