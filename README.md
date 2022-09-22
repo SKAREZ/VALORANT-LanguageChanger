@@ -40,7 +40,7 @@
 ⚠ - IMPORTANT - ⚠
 </p>
 <p align="center">
-Hey everyone! I'm curently working on a brand new version of VRLC, more stable, and more easy-to-use, I don't have too much freetime in my life right now, so, the preoject will be suspended for updates, the new 5.06 patch from VALORANT was not tested yet, but the 1.1 version of VRLC should be still compatible, if you have some problems, please, report the problem in the "Issues" tab on GitHub or come contact me on Discord!
+Hey everyone! I'm curently working on a brand new version of VRLC, more stable and more easy-to-use, I don't have too much freetime in my life right now, so, the project will be suspended for updates, the new 5.06 patch from VALORANT was not tested yet, but the 1.1 version of VRLC should be still compatible, if you have some issues with use, please report your problem in the "Issues" tab on GitHub or come contact me on Discord!
 </p>
 <p align="center">
 xoxo.
