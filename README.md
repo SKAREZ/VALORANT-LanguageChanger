@@ -71,22 +71,22 @@ Simply by using a batch script, change the text language of the game, whether it
 </h1>
 
 - ### 💬 Is this script safe?
-  ➡ **Yes it is!**
+  ➡ Yes it is.
 
 - ### 💬 Where can I install the script?
-  ➡ **[Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)**
+  ➡ [Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
 
 - ### 💬 Can I get banned from VALORANT by using this script?
-  ➡ **Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!**
+  ➡ Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!
 
 - ### 💬 I have some problems while trying to use the script
-  ➡ **If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!**
+  ➡ If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!
 
 - ### 💬 I want to change the language of the audio/voicelines... How do I do?
-  ➡ **This is a good question and she is important to be able to use correctly the script, to change you game audio/voicelines language, nothing hard. Go in-game or in the VALORANT's Riot Client settings and choose the language you want for the audio/voicelines language, and change the text file language if you want to by following the [installation](https://github.com/SKAREZ/VALORANT-LanguageChanger#installation) guide!**
+  ➡ This is a good question and she is important to be able to use correctly the script, to change you game audio/voicelines language, nothing hard. Go in-game or in the VALORANT's Riot Client settings and choose the language you want for the audio/voicelines language, and change the text file language if you want to by following the [installation](https://github.com/SKAREZ/VALORANT-LanguageChanger#installation) guide!
 
 - ### 💬 The script is working, but my VALORANT had no changes on texts language or even crashed!
-  ➡ **If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:**
+  ➡ If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:
   Verifiy while launching the script, that your Riot Games Softwares installation game path is correct! *(By default it's this path: "X:/Riot Games"), and don't forget to put the correct letter of your hard-drive where the Riot Games Softwares installation path is.*
   Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
   Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: **https://bit.ly/3bnV4DH** or **https://bit.ly/3xNxK9R**
