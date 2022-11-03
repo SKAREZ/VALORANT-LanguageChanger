@@ -77,7 +77,7 @@ Simply by using a batch script, change the text language of the game, whether it
   ➡ [Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
 
 - ### 💬 Can I get banned from VALORANT by using this script?
-  ➡ Maybe, yes, you have a risk to be banned from VALORANT** *(Very rare chance to be banned)* **more information will be describe in the "Disclaimer" page in the script!
+  ➡ Maybe, yes, you have a risk to be banned from VALORANT *(Very rare chance to be banned)* more information will be describe in the "Disclaimer" page in the script!
 
 - ### 💬 I have some problems while trying to use the script
   ➡ If you have difficulties to run the script, contact me on Discord, I will help you fast as I can!
