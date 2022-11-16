@@ -5,7 +5,8 @@
 
 | Game Version | Safe/Compatible |
 | --- | --- |
-| Patch 5.09 | ✔ |
+| Latests Patchs | 〰 |
+| Patch 5.10 | ✔ |
 | Older Patchs | ❌ |
 
 > ***✔ Yes*** ◆ ***❌ No*** ◆ ***〰 Unknown***
