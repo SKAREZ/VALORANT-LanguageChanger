@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/releases">
-<img alt="Version" src="https://img.shields.io/badge/STABLE 1.0.0-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img alt="Version" src="https://img.shields.io/badge/1.1.5.10-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 <a href="https://docs.microsoft.com/en-us/learn/modules/bash-introduction/">
 <img alt="Code" src="https://img.shields.io/badge/BATCH-000000?style=for-the-badge&logo=Windows&logoColor=4F93CB">
@@ -25,7 +25,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.09-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.10-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
@@ -56,7 +56,7 @@ Simply by using a batch script, change the text language of the game, whether it
 </h1>
 
 - **1.** Go to the **[Releases](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)** tab of the repository and install the latest version of VRLC
-- **2.** Extract the `"VRLC"` folder out of the `".zip"` folder: `"VRLC-Stable?.?"`
+- **2.** Extract the `"VRLC"` folder out of the `".zip"` folder: `"VRLC-Stable?.?.?.?"`
 - **3.** Launch your Riot Client, check if your game is up to date and if he can be launched
 - **4.** Start `"VRLC.exe"` as administrator
 - **5.** Enter the Riot Games installation folder *(By default: "X:/Riot Games")*
@@ -87,7 +87,7 @@ Simply by using a batch script, change the text language of the game, whether it
 
 - ### 💬 The script is working, but my VALORANT had no changes on texts language or even crashed!
   ➡ If the script was working, but VALORANT had no changes or crashed at the start, you need to watch theses things:
-  Verifiy while launching the script, that your Riot Games Softwares installation game path is correct! *(By default it's this path: "X:/Riot Games"), and don't forget to put the correct letter of your hard-drive where the Riot Games Softwares installation path is.*
+  Verifiy while launching the script, that your Riot Games Softwares installation game path is correct! *((By default it's this path: "X:/Riot Games"), and don't forget to put the correct letter of your hard-drive where the Riot Games Softwares installation path is.)*
   Be carefull to have your game up to date before injecting the language files, and also having your Riot Client opened!
   Or last option, the script is obsolete, and to know if it's the script, you can go here to check the script update status: **https://bit.ly/3bnV4DH** or **https://bit.ly/3xNxK9R**
 
