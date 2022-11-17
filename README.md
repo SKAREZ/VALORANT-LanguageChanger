@@ -71,7 +71,7 @@ Simply by using a batch script, change the text language of the game, whether it
 </h1>
 
 - ### 💬 Is this script safe?
-  ➡ Yes it is.
+  ➡ [Yes it is.](https://www.virustotal.com/gui/file/2030956e0086cea9e98a81d0ad5730301cf52564544026a29c0fd7051b06a54e/detection) *(Link to VirusTotal scan)*
 
 - ### 💬 Where can I install the script?
   ➡ [Right here!](https://github.com/SKAREZ/VALORANT-LanguageChanger/releases/)
