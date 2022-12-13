@@ -44,8 +44,8 @@ REM #region START
 @echo off
 cls
 :: Versions
-set version=1.1.5.10
-set gameversion=5.10
+set version=1.1.5.12
+set gameversion=5.12
 :: Dirs
 set scriptpath=%~dp0
 set hdL=%~d0
