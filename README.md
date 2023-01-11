@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-<img src= "https://imgur.com/wZHWHCM.png alt="Logo" width="300" height="300""/>
+<img src= "https://imgur.com/aQ5uXQ4.png alt="Logo" width="300" height="300""/>
 </h3>
 <p align="center">
 <a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/blob/vrlc/LICENSE">
@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://github.com/SKAREZ/VALORANT-LanguageChanger/releases">
-<img alt="Version" src="https://img.shields.io/badge/1.1.5.12-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img alt="Version" src="https://img.shields.io/badge/1.1.6.0-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 <a href="https://docs.microsoft.com/en-us/learn/modules/bash-introduction/">
 <img alt="Code" src="https://img.shields.io/badge/BATCH-000000?style=for-the-badge&logo=Windows&logoColor=4F93CB">
@@ -25,7 +25,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 <a href="https://playvalorant.com">
-<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 5.12-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+<img alt="Riot" src="https://img.shields.io/badge/VALORANT | 6.0-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </a>
 <p align="center">
 <a href="https://twitter.com/SKAREZ_Z">
