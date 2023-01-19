@@ -5,6 +5,7 @@
 
 | Game Version | Safe/Compatible |
 | --- | --- |
+| Patch 6.01 | ✔ |
 | Patch 6.0 | ✔ |
 |  |  |
 | Older Patchs | ❌ |
